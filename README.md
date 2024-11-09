@@ -57,6 +57,3 @@ MIT License
 
 ## Author
 Meet Patankar
-
-## Acknowledgments
-This project was developed as part of a database design and implementation course.
